@@ -11,6 +11,8 @@ npm run db:init
 npm run start
 ```
 
+Don't forget to use a `.env` file. You can copy `.env.example` to `.env`
+
 Then you can start the client part:
 ```bash
 npm install
