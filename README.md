@@ -1,6 +1,6 @@
-# MewoGPT react-router
+# Chat react-router
 
-This project is the final exercise project for the React course.
+This project is an exercise project for the React course.
 
 To start the project, you need first to launch the server:
 
