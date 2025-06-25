@@ -9,7 +9,7 @@ export default function NavBar({ conversations, loading, error }) {
   return (
     <nav className="flex flex-col bg-gray-100 dark:bg-gray-900 w-[260px] overflow-y-auto">
       <h1 className="text-2xl font-bold p-4">
-        <Link to="/">mewoGPT</Link>
+        <Link to="/">myChatGPT</Link>
       </h1>
       {loading && <p>Loading...</p>}
       {error && <p className="text-red-500">Error: {error.message}</p>}
